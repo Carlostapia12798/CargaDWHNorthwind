@@ -15,7 +15,6 @@ namespace CargaDWHNorthwind.Data.Context
 
         #region "Db Sets"
         public DbSet<DimClientes> DimClientes { get; set; }
-        public DbSet<DimDate> DimDates { get; set; }
         public DbSet<DimEmpleados> DimEmpleados { get; set; }
         public DbSet<DimProductCategory> DimProductCategories { get; set; }
         public DbSet<DimTransportista> DimTransportista { get; set; }
