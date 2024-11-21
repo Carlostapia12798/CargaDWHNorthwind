@@ -3,9 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.11.35327.3
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CargaDWHNorthwind.Data", "CargaDWHNorthwind.Data\CargaDWHNorthwind.Data.csproj", "{1FA29313-0BD1-4B73-846A-403C849C5295}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CargaDWHNorthwind.Data", "CargaDWHNorthwind.Data\CargaDWHNorthwind.Data.csproj", "{1FA29313-0BD1-4B73-846A-403C849C5295}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CargaDWHNorthwind.WorkerServices", "CargaDWHNorthwind.WorkerServices\CargaDWHNorthwind.WorkerServices.csproj", "{D0D4762E-CE1C-4007-A7C8-2AFB38094845}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CargaDWHNorthwind.WorkerServices", "CargaDWHNorthwind.WorkerServices\CargaDWHNorthwind.WorkerServices.csproj", "{D0D4762E-CE1C-4007-A7C8-2AFB38094845}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

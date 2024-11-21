@@ -19,6 +19,7 @@ namespace CargaDWHNorthwind.Data.Context
         public DbSet<Employees> Employees { get; set; }
         public DbSet<Products> Products { get; set; }
         public DbSet<Shippers> Shippers { get; set; }
+        public DbSet<Orders> Orders { get; set; }
         #endregion
 
     }

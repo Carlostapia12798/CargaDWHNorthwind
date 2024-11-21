@@ -12,8 +12,8 @@ namespace CargaDWHNorthwind.Data.Entidades.DWHNorthwind
         public int DateOrder { get; set; }
         public DateOnly? Date { get; set; }
         public string? DateName { get; set; }
-        public int Mouth { get; set; }
-        public string? MouthName { get; set; }
+        public int Month { get; set; }
+        public string? MonthName { get; set; }
         public int Year { get; set; }
         public string? YearName { get; set; }
 
